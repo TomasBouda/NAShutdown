@@ -31,8 +31,6 @@ namespace NAShutdown
 			{
 				Console.WriteLine("Ip address is invalid or it wasn't provided in app.config!");
 			}
-			
-			Console.ReadKey();
 		}
 
 		/// <summary>
